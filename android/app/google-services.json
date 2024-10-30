@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337829483158",
+    "project_id": "n2-flutter-f69e3",
+    "storage_bucket": "n2-flutter-f69e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337829483158:android:df98b1693a0fca507d68b7",
+        "android_client_info": {
+          "package_name": "com.example.n2_tassiana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt8xUFlYJMRebzi8_TTHq3Fu1kbDXdB6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
